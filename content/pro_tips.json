@@ -1,0 +1,162 @@
+[
+  {
+    "id": "pt1",
+    "author": "粥粥",
+    "identity": "TT 战队职业选手（WRL 比赛 MVP，B站官方教学）",
+    "topic": "锐雯对线/打团",
+    "champion": "锐雯",
+    "points": [
+      "锐雯是粥粥的招牌英雄之一，曾在 WRL 职业联赛中用锐雯打出五杀并斩获 MVP，官方教学视频以实战录像拆解连招与进场思路。",
+      "光速 QA 与技能取消后摇是锐雯伤害上限的关键（教学视频中的具体连招细节待核实）。",
+      "团战要先处理进场时机，等对方关键控制交出后再切入，避免进场即被秒（官方教学主题，细节待核实）。"
+    ],
+    "sourceUrl": "https://www.bilibili.com/video/BV1Q34y1Y7ah/",
+    "sourceName": "B站（TT英雄联盟手游官方账号）"
+  },
+  {
+    "id": "pt2",
+    "author": "niuniu",
+    "identity": "TT 战队打野选手（2026 WRL 夏季赛冠军成员）",
+    "topic": "打野节奏/野核",
+    "champion": "奈德丽（豹女）",
+    "points": [
+      "niuniu 以豹女著称，2026 WRL 夏季赛中曾 12 分钟打出约 1.5 万经济差帮助 TT 速胜 WBG。",
+      "野核豹女的核心是前期节奏：入侵、反野与控资源持续拉开经济差，把雪球滚到能快速终结比赛的程度（结合比赛报道，操作细节待核实）。",
+      "拿到豹女这类前期强势野核时，要主动扩大经济领先、尽快终结比赛（'经济领先拿下开门红'的比赛思路）。"
+    ],
+    "sourceUrl": "https://k.sina.cn/article_5137468776_m132378d6803302lpcm.html",
+    "sourceName": "新浪体育（TT 豹女 niuniu 斩获 MVP 报道）"
+  },
+  {
+    "id": "pt3",
+    "author": "WBG.Byck",
+    "identity": "WBG 战队英雄联盟手游选手",
+    "topic": "版本理解/心态目标",
+    "champion": "",
+    "points": [
+      "Byck 在赛事专访中表示，当前会把目标定在'进决赛或者拿冠军'，认为明确的目标能带来更好的训练与比赛状态。",
+      "对职业选手而言，先设定可实现的目标再逐步冲击冠军，避免好高骛远（专访观点，具体训练方法待核实）。"
+    ],
+    "sourceUrl": "https://www.bilibili.com/read/cv23314885/",
+    "sourceName": "B站（英雄联盟手游赛事专访 WBG.Byck）"
+  },
+  {
+    "id": "pt4",
+    "author": "灵药",
+    "identity": "斗鱼主播，前 OMG 职业选手（LoveTT）",
+    "topic": "鳄鱼对线",
+    "champion": "雷克顿（鳄鱼）",
+    "points": [
+      "红怒是鳄鱼对线的核心资源，要控制怒气、避免红怒 W 打在兵上（'学会这招不可能红怒 W 小兵'）。",
+      "鳄鱼前期存在 1 级套路可以尝试直接拿一血（'1 级包拿一血'的对线技巧，具体步骤待核实）。",
+      "高分段鳄鱼全靠细节：连招衔接与怒气管理决定对线差距（斗鱼灵药连招教学观点）。"
+    ],
+    "sourceUrl": "https://www.sohu.com/a/504856879_100105654",
+    "sourceName": "搜狐（斗鱼灵药鳄鱼连招教学报道）"
+  },
+  {
+    "id": "pt5",
+    "author": "TOT蟹老板",
+    "identity": "英雄联盟手游主播/内容创作者（TOT，盲僧绝活）",
+    "topic": "盲僧打野/刷野连招",
+    "champion": "李青（盲僧）",
+    "points": [
+      "盲僧刷野思路与连招教学是其代表作：开局插眼保平安，蓝 BUFF 刷完后做好刷野衔接（'保姆级清野教学'）。",
+      "盲僧可以考虑出装偏肉（如连出多件肉装），让发育很好的射手也难以处理（出装思路，是否为其本人观点待核实）。",
+      "摸眼进场与回旋踢等连招是盲僧制霸峡谷的关键（连招教学主题，细节待核实）。"
+    ],
+    "sourceUrl": "https://www.163.com/dy/article/G53ARC1H05464JPP.html",
+    "sourceName": "网易（TOT蟹老板盲僧教学报道）"
+  },
+  {
+    "id": "pt6",
+    "author": "Faker",
+    "identity": "T1 中单选手（国际知名职业选手）",
+    "topic": "瑞兹教学/版本",
+    "champion": "瑞兹",
+    "points": [
+      "2025 年 4 月，Faker 与《英雄联盟手游》官方合作录制瑞兹教学，在瑞兹上线手游之前向全球玩家传授玩法。",
+      "官方将合作命名为'Faker 的瑞兹大师课'，目标是让玩家学会像 Faker 一样玩瑞兹（连招与出装细节待核实）。"
+    ],
+    "sourceUrl": "https://esportsinsider.com/2025/04/faker-collaborates-with-wild-rift-to-teach-players-ryze",
+    "sourceName": "Esports Insider"
+  },
+  {
+    "id": "pt7",
+    "author": "Hamez",
+    "identity": "Team Secret 辅助选手（国际服职业选手）",
+    "topic": "辅助上分",
+    "champion": "",
+    "points": [
+      "Hamez 分享 3 条辅助位上分建议，称按此执行可以'从铁牌快速打到大师/宗师段位'（具体建议内容待核实）。",
+      "辅助位上分的关键在于把团队作用最大化，而非单纯跟在射手身后（文章主题方向，细节待核实）。"
+    ],
+    "sourceUrl": "https://www.oneesports.gg/wild-rift/team-secret-hamezs-3-pro-tips-to-climbing-the-wild-rift-ranks-as-a-support/",
+    "sourceName": "ONE Esports"
+  },
+  {
+    "id": "pt8",
+    "author": "Impressive",
+    "identity": "Wild Rift 职业选手/内容创作者",
+    "topic": "男枪打野",
+    "champion": "格雷福斯（男枪）",
+    "points": [
+      "Impressive 给出 5 条用男枪统治野区的职业技巧（具体技巧内容待核实）。",
+      "男枪的刷野效率与贴脸输出节奏是打野位拉开差距的关键（文章主题概括，细节待核实）。"
+    ],
+    "sourceUrl": "https://www.oneesports.gg/wild-rift/impressives-5-pro-tips-to-dominate-the-jungle-with-graves/",
+    "sourceName": "ONE Esports"
+  },
+  {
+    "id": "pt9",
+    "author": "Kaisaya",
+    "identity": "Wild Rift 电竞分析师",
+    "topic": "版本理解/阵容",
+    "champion": "阿利斯塔（牛头）",
+    "points": [
+      "分析师 Kaisaya 指出当前版本胜率最高的阵容之一围绕阿利斯塔等英雄构建（具体阵容构成待核实）。",
+      "版本理解上，阵容搭配比单一英雄强度更能决定胜率（分析师观点，细节待核实）。"
+    ],
+    "sourceUrl": "https://www.oneesports.gg/wild-rift/wild-rift-analyst-kaisaya-reveals-why-this-comp-has-the-highest-win-rate/",
+    "sourceName": "ONE Esports"
+  },
+  {
+    "id": "pt10",
+    "author": "One Esports（电竞媒体）",
+    "identity": "Wild Rift 职业赛事观察（电竞媒体）",
+    "topic": "版本理解/职业战术",
+    "champion": "",
+    "points": [
+      "职业赛场当前最有效的战术之一是换线（lane swap）：通过纵向分割地图规避对线劣势、掌控资源。",
+      "换线战术因过于强势已被官方关注，拳头表示考虑在后续版本限制换线（Riot 相关报道）。"
+    ],
+    "sourceUrl": "https://www.oneesports.gg/wild-rift/lane-swapping-is-the-most-effective-strategy-in-pro-wild-rift-right-now/",
+    "sourceName": "ONE Esports"
+  },
+  {
+    "id": "pt11",
+    "author": "八神蛮王",
+    "identity": "抖音创作者（顶尖上单主播）",
+    "topic": "蛮王上单/单带",
+    "champion": "泰达米尔（蛮王）",
+    "points": [
+      "八神蛮王是抖音上的顶尖上单内容创作者，主打蛮王上分教学（具体教学观点待核实）。",
+      "蛮王上单常见思路包括带线牵制与'无赖流'出装（海妖/爆破/破舰者体系；该出装与他的具体关联待核实）。"
+    ],
+    "sourceUrl": "https://baike.baidu.com/item/%E5%85%AB%E7%A5%9E%E8%9B%AE%E7%8E%8B%EF%BC%88%E9%A1%B6%E5%B0%96%E4%B8%8A%E5%8D%95%EF%BC%89/65981083",
+    "sourceName": "百度百科（八神蛮王词条）"
+  },
+  {
+    "id": "pt12",
+    "author": "无敌龙傲天",
+    "identity": "B站主播（'教你玩中单'系列作者）",
+    "topic": "中单教学",
+    "champion": "奥莉安娜（发条）等中单英雄（待核实）",
+    "points": [
+      "B 站主播'无敌_龙傲天'长期发布'教你玩中单'系列与直播回放，覆盖发条、狗头等中单英雄的实战教学（具体技巧待核实）。",
+      "中单教学重点通常在于对线细节与游走支援节奏（系列主题概括，细节待核实）。"
+    ],
+    "sourceUrl": "https://www.bilibili.com/video/BV1uECWYcEv8/",
+    "sourceName": "B站（龙傲天教你玩中单）"
+  }
+]
