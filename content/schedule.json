@@ -1,0 +1,112 @@
+[
+  {
+    "id": "s1",
+    "title": "2026 峡谷拜年秀暨 WRL 年度总决赛（JT 夺冠）",
+    "category": "已完结赛事",
+    "status": "ended",
+    "startDate": "2026-02-08（约，待核实）",
+    "endDate": "2026-02-12（约，待核实）",
+    "details": "2026 年春节期间的英雄联盟手游超级联赛年度总决赛，在上海联盟竞技场举行，与峡谷拜年秀联动。JT 战队在先失两局的情况下让二追三夺得年度总冠军（罗云熙现场献上双五杀）。央视网体育于 2026-02-12 报道赛事圆满落幕。",
+    "sourceUrl": "https://sports.cctv.cn/2026/02/12/ARTIA5uYM4JUm3NiaaTBxfij260212.shtml",
+    "sourceName": "央视网体育"
+  },
+  {
+    "id": "s2",
+    "title": "2026 WRL 夏季赛常规赛（超级联赛第一赛段）",
+    "category": "国服联赛",
+    "status": "ended",
+    "startDate": "2026-05-29",
+    "endDate": "2026-07-XX（待核实）",
+    "details": "2026 英雄联盟手游超级联赛夏季赛常规赛于 2026-05-29 在上海五角场百联 ZX 造趣场正式打响。本届联赛设 8 支一级职业俱乐部，采用单赛季循环积分赛制，赛年总奖金达千万级别，联赛横跨夏季、秋季、冬季三个赛段，持续至次年 1 月 10 日。",
+    "sourceUrl": "https://view.inews.qq.com/k/20260527A0AATQ00?scene=wap&no-redirect=1",
+    "sourceName": "腾讯新闻"
+  },
+  {
+    "id": "s3",
+    "title": "2026 WRL 夏季赛季后赛与总决赛（TT 夺冠）",
+    "category": "已完结赛事",
+    "status": "ended",
+    "startDate": "2026-07-XX（季后赛，待核实）",
+    "endDate": "2026-07-25（总决赛）",
+    "details": "2026 英雄联盟手游超级联赛夏季赛总决赛于 2026-07-25 在上海西岸梦中心 GATEM 梦工场举行，与英雄联盟手游四周年庆典同步。FP 与 TT 展开终极对决，TT 拒绝让二追三、以 3:2 击败 FP 夺得夏季赛冠军。",
+    "sourceUrl": "https://news.17173.com/c/tg/content/07262026/181552824.shtml",
+    "sourceName": "17173"
+  },
+  {
+    "id": "s4",
+    "title": "2026 季中冠军赛（MSI）英雄联盟手游观赛活动",
+    "category": "观赛活动",
+    "status": "ended",
+    "startDate": "2026-06-XX（待核实）",
+    "endDate": "2026-06-XX（待核实）",
+    "details": "端游 2026 季中冠军赛（MSI）落地韩国大田，期间英雄联盟手游客户端同步开启观赛活动与助威活动，玩家可通过观赛任务获取游戏内奖励（参考 2026 年 MSI 观赛活动公告）。",
+    "sourceUrl": "https://k.sina.cn/article_5756404150_1571bc1b604001a2v8.html?from=game",
+    "sourceName": "新浪游戏"
+  },
+  {
+    "id": "s5",
+    "title": "2026 WRL 秋季赛（超级联赛第二赛段）",
+    "category": "国服联赛",
+    "status": "ongoing",
+    "startDate": "2026-08-XX（待核实）",
+    "endDate": "2026-10-XX（待核实）",
+    "details": "2026 英雄联盟手游超级联赛赛年横跨夏季、秋季、冬季三个赛段。夏季赛结束后进入秋季赛（第二赛段），8 支一级职业俱乐部继续进行单赛季循环积分赛，争夺积分与后续年度总决赛/SMASH 名额。具体开赛日期待官方后续公布。",
+    "sourceUrl": "https://news.17173.com/c/tg/content/05272026/122859727.shtml",
+    "sourceName": "17173"
+  },
+  {
+    "id": "s6",
+    "title": "Wild Rounds 2026 区域资格赛（通向 SMASH）",
+    "category": "国际赛事",
+    "status": "ongoing",
+    "startDate": "2026-05-XX（待核实）",
+    "endDate": "2026-10-XX（待核实）",
+    "details": "Riot 于 2026 年 6 月公布 Wild Rift 2026 电竞路线图（Wild Rounds SMASH），各赛区通过区域资格赛/公开赛决出 SMASH 2026 参赛名额。例如菲律宾 Pilipinas Open 2026 奖金池达 100 万比索，报名截止至 6 月 2 日，优胜者直通 11 月 SMASH。",
+    "sourceUrl": "https://mb.com.ph/2026/05/29/last-call-riot-games-ph-extends-wild-rounds-pilipinas-open-2026-registration-until-june-2-reveals-whopping-1-million-peso-prize-pool-and-path-to-smash-in-november",
+    "sourceName": "Manila Bulletin"
+  },
+  {
+    "id": "s7",
+    "title": "SMASH 2026 世界赛（全球邀请赛，韩国）",
+    "category": "世界赛",
+    "status": "upcoming",
+    "startDate": "2026-11-XX（定档 11 月，具体待核实）",
+    "endDate": "2026-11-XX（定档 11 月，具体待核实）",
+    "details": "SMASH 2026 为英雄联盟手游（Wild Rift）年度世界级赛事，官方确认定档 2026 年 11 月在韩国举办（2026 年 6 月官方公布举办地）。各赛区将通过 Wild Rounds 资格赛与积分决出参赛队伍，具体赛程阶段（小组赛/淘汰赛/决赛）待官方公布。",
+    "sourceUrl": "https://www.taptap.cn/moment/801478784564855198",
+    "sourceName": "TapTap"
+  },
+  {
+    "id": "s8",
+    "title": "端游 S16 全球总决赛（2026 全球总决赛重返北美）",
+    "category": "国际赛事",
+    "status": "upcoming",
+    "startDate": "2026-09-XX（赛程拉长至一个月，待核实）",
+    "endDate": "2026-11-14（决赛）",
+    "details": "2026 英雄联盟全球总决赛（S16）重返北美举办，赛程拉长至一个月。官方此前公布 S16 决赛定于 2026-11-14 在纽约篮网主场巴克莱中心举行，入围赛/瑞士轮/淘汰赛等阶段自 9 月底至 11 月依次展开。",
+    "sourceUrl": "https://news.zhibo8.com/game/2026-01-10/6961c1cb57396native.htm",
+    "sourceName": "直播吧"
+  },
+  {
+    "id": "s9",
+    "title": "S16 全球总决赛手游端观赛联动活动",
+    "category": "观赛活动",
+    "status": "upcoming",
+    "startDate": "2026-10-XX（待核实）",
+    "endDate": "2026-11-XX（待核实）",
+    "details": "2026 英雄联盟全球总决赛（S16）期间，英雄联盟手游客户端预计延续往年模式开启观赛联动活动（参考 2025 年 S15 总决赛的手游观赛/助威玩法），包括观赛任务、游戏内奖励与版本联动，具体活动时间与内容待官方公告。",
+    "sourceUrl": "https://www.17173.hl.cn/lol/2026yxlmqqzjssjdlgskfxbzyhqqzn/",
+    "sourceName": "17173 手游网"
+  },
+  {
+    "id": "s10",
+    "title": "2026 WRL 冬季赛与年度总决赛（超级联赛第三赛段）",
+    "category": "国服联赛",
+    "status": "upcoming",
+    "startDate": "2026-11-XX（待核实）",
+    "endDate": "2027-01-10（赛年收官，待核实）",
+    "details": "2026 英雄联盟手游超级联赛赛年自 2026-05-29 起横跨夏季、秋季、冬季三个赛段，官方公布将持续至 2027-01-10。冬季赛段结束后将决出赛年总冠军（年度总决赛），具体赛程与对阵待官方公布。",
+    "sourceUrl": "https://doctrina.space/courses/?live-news-9252119-2026-05-27-bei-jing-shi-jian2026nian5yue29ri-shang-hai-wu-jiao-chang-bai-lianzx-zao-qu-chan",
+    "sourceName": "网易新闻转载"
+  }
+]

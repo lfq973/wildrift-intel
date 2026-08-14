@@ -1,0 +1,350 @@
+[
+  {
+    "id": "p1",
+    "version": "7.2c",
+    "region": "国服",
+    "date": "2026-08-12",
+    "title": "7.2c版本更新及平衡性调整公告",
+    "summary": "国服 7.2「共赴盛宴」版本后的平衡性热更，官方于 2026 年 8 月 12 日发布公告：沃里克（狼人）、克格莫（大嘴）、瑞兹遭削弱，科加斯（大虫子）、金克丝获得增强；另有上路对线/兵线相关机制调整，社区称「上路控线两分钟将成历史」（具体机制细节待核实）。",
+    "highlights": [
+      {
+        "type": "nerf",
+        "hero": "沃里克",
+        "title": "沃里克削弱",
+        "detail": "狼人沃里克在本次平衡性调整中被削弱，具体数值调整以官方公告为准（待核实）。"
+      },
+      {
+        "type": "nerf",
+        "hero": "克格莫",
+        "title": "克格莫削弱",
+        "detail": "大嘴克格莫被削弱，具体数值调整以官方公告为准（待核实）。"
+      },
+      {
+        "type": "nerf",
+        "hero": "瑞兹",
+        "title": "瑞兹削弱",
+        "detail": "流浪法师瑞兹被削弱，具体数值调整以官方公告为准（待核实）。"
+      },
+      {
+        "type": "buff",
+        "hero": "科加斯",
+        "title": "科加斯增强",
+        "detail": "大虫子科加斯获得增强，与 7.2 版本新英雄身份形成联动，具体数值调整以官方公告为准（待核实）。"
+      },
+      {
+        "type": "buff",
+        "hero": "金克丝",
+        "title": "金克丝增强",
+        "detail": "暴走萝莉金克丝获得增强，具体数值调整以官方公告为准（待核实）。"
+      },
+      {
+        "type": "system",
+        "hero": "",
+        "title": "上路对线机制调整",
+        "detail": "社区与媒体称「上路控线两分钟将成历史」，涉及兵线/对线相关机制改动，具体内容以官方公告为准（待核实）。"
+      }
+    ],
+    "sourceUrl": "https://news.qq.com/rain/a/20260812A0B1WB00",
+    "sourceName": "腾讯新闻（英雄联盟手游官方公告）"
+  },
+  {
+    "id": "p2",
+    "version": "7.2",
+    "region": "国服",
+    "date": "2026-07-09",
+    "title": "共赴盛宴（FEAST ON）· 四周年版本，峡谷全面焕新",
+    "summary": "国服四周年大版本，2026 年 7 月 9 日上线：仅两位新英雄——射手芸阿娜（Yunara）与科加斯（Cho'Gath）；阿狸视觉重制（ASU）；装备与附魔系统重大调整（移除鞋子附魔、新增 3 级鞋、AP 装备全面重做）；新排位赛季、新峡谷宝典同步开启；伴随四周年庆典与 EZ 足球主题皮肤等福利活动。",
+    "highlights": [
+      {
+        "type": "new_hero",
+        "hero": "芸阿娜",
+        "title": "新英雄上线",
+        "detail": "新英雄射手芸阿娜（Yunara）随 7.2 版本上线（2026-07-09）。"
+      },
+      {
+        "type": "new_hero",
+        "hero": "科加斯",
+        "title": "新英雄上线",
+        "detail": "新英雄科加斯（Cho'Gath）上线，端游经典坦克英雄首次登录手游（版本前瞻确认本版本仅两位新英雄）。"
+      },
+      {
+        "type": "system",
+        "hero": "阿狸",
+        "title": "阿狸视觉重制（ASU）",
+        "detail": "阿狸迎来视觉重制，模型、特效等全面升级（版本前瞻报道）。"
+      },
+      {
+        "type": "system",
+        "hero": "",
+        "title": "装备与附魔系统重做",
+        "detail": "鞋子附魔机制迎来重大调整，新增 3 级鞋，AP（法术强度）装备全面重做（国服与 7.2 国际服同步调整，具体细节待核实）。"
+      },
+      {
+        "type": "event",
+        "hero": "",
+        "title": "排位新赛季与峡谷宝典",
+        "detail": "新排位赛季开启，峡谷宝典同步更新，新英雄、新皮肤、排位赛与峡谷宝典集中上线（游戏社版本蓝图报道）。"
+      },
+      {
+        "type": "event",
+        "hero": "",
+        "title": "国服四周年庆典",
+        "detail": "「共赴盛宴」四周年庆典开启：线下庆典活动（陈都灵、常华森等现身）、巨型金克丝落地上海西岸（2026-07-26）、夏季赛总决赛等（新浪游戏、中新网等报道）。"
+      },
+      {
+        "type": "event",
+        "hero": "",
+        "title": "EZ 足球主题皮肤活动",
+        "detail": "伊泽瑞尔足球主题皮肤可通过版本活动免费领取（小米游戏中心报道，活动细节待核实）。"
+      }
+    ],
+    "sourceUrl": "https://zhuanlan.zhihu.com/p/2058212099290035488",
+    "sourceName": "知乎（《英雄联盟手游》7.2版本更新及平衡性调整公告转载）"
+  },
+  {
+    "id": "p3",
+    "version": "7.1h",
+    "region": "国服",
+    "date": "2026-06-25",
+    "title": "7.1h版本更新及平衡性调整公告",
+    "summary": "7.1「全速竞逐」版本周期内的例行平衡性热更：官方 2026 年 6 月 24 日发布公告、6 月 25 日停机更新，为继 7.1b/7.1d/7.1f/7.1g 之后又一次字母补丁（7.1g 于 6 月 11 日带来新英雄斯卡纳）。具体涉及英雄与数值暂未获取到公开明细（待核实）。",
+    "highlights": [
+      {
+        "type": "system",
+        "hero": "",
+        "title": "平衡性热更新",
+        "detail": "7.1「全速竞逐」版本周期内的例行平衡性调整，官方 6 月 24 日发布公告、6 月 25 日停机更新；涉及英雄与数值以官方公告为准（待核实）。"
+      },
+      {
+        "type": "system",
+        "hero": "",
+        "title": "版本周期位置",
+        "detail": "为 7.1 周期内继 7.1b、7.1d、7.1f、7.1g（6 月 11 日斯卡纳上线）之后的字母热更，距 7.2「共赴盛宴」大版本（7 月 9 日）约两周上线。"
+      },
+      {
+        "type": "system",
+        "hero": "",
+        "title": "公告渠道",
+        "detail": "官方公告标题为「7.1h版本更新及平衡性调整公告」，可通过 4399、腾讯新闻、B 站等渠道查阅全文（具体调整明细待核实）。"
+      }
+    ],
+    "sourceUrl": "https://a.4399.cn/gg/53281731_141120.html",
+    "sourceName": "4399游戏资讯（官方公告转载）"
+  },
+  {
+    "id": "p4",
+    "version": "7.1",
+    "region": "国服",
+    "date": "2026-04-09",
+    "title": "全速竞逐（FLAT OUT）",
+    "summary": "国服 2026 年 4 月 9 日开启的大版本「全速竞逐」：新英雄奎桑提（K'Sante）上线，塔莉娅（Taliyah）、斯卡纳（Skarner）随后在版本周期内陆续登场；符文系统革新（新增符文冰霜领主、守护者，强攻、艾黎等优化）；赛车主题符文大乱斗焕新、保时捷联名「星速竞逐」系列皮肤与全新峡谷宝典上线；期间还包含 7.1d（4 月 29 日，厄加特增强、致命节奏削弱）等字母平衡热更。",
+    "highlights": [
+      {
+        "type": "new_hero",
+        "hero": "奎桑提",
+        "title": "新英雄上线",
+        "detail": "新英雄奎桑提（K'Sante）随 7.1 版本上线（4 月 9 日版本开启，九游、TapTap 等报道上线时间）。"
+      },
+      {
+        "type": "new_hero",
+        "hero": "塔莉娅",
+        "title": "新英雄上线",
+        "detail": "新英雄塔莉娅（Taliyah，岩石编织者）在 7.1 版本周期内登场（台服资讯报道「即将登场」，国服具体版本号待核实）。"
+      },
+      {
+        "type": "new_hero",
+        "hero": "斯卡纳",
+        "title": "新英雄上线",
+        "detail": "新英雄斯卡纳（Skarner，上古领主）于 7.1g 版本（2026 年 6 月 11 日）上线。"
+      },
+      {
+        "type": "system",
+        "hero": "",
+        "title": "符文系统革新",
+        "detail": "符文系统更新：新增符文「冰霜领主」「守护者」，并对强攻、艾黎等符文进行优化调整（4399 版本先知）。"
+      },
+      {
+        "type": "event",
+        "hero": "",
+        "title": "赛车主题符文大乱斗",
+        "detail": "符文大乱斗（ARAM）迎来赛车主题焕新，匹配「全速竞逐」版本主题（4399 版本前瞻）。"
+      },
+      {
+        "type": "new_skin",
+        "hero": "",
+        "title": "星速竞逐系列皮肤",
+        "detail": "「星速竞逐」系列皮肤（保时捷联名赛车主题）登场（4399 版本前瞻；国际服保时捷联名于 2026 年 4 月开启）。"
+      },
+      {
+        "type": "event",
+        "hero": "",
+        "title": "新峡谷宝典",
+        "detail": "全新峡谷宝典（版本通行证）随版本上线（4399 报道）。"
+      },
+      {
+        "type": "system",
+        "hero": "",
+        "title": "7.1d 平衡性调整",
+        "detail": "7.1d 版本（2026 年 4 月 29 日）平衡性调整：厄加特增强、致命节奏（符文）削弱（wywyx 报道）。"
+      }
+    ],
+    "sourceUrl": "https://lolm.qq.com/v2/news-page.html?docid=10431018090642873242",
+    "sourceName": "英雄联盟手游官网（7.1版本更新及平衡性调整公告）"
+  },
+  {
+    "id": "p5",
+    "version": "7.2",
+    "region": "国际服",
+    "date": "2026-07-09",
+    "title": "FEAST ON!（共赴盛宴）",
+    "summary": "国际服 2026 年夏日大型版本：新英雄芸阿娜（Yunara，射手）与科加斯（Cho'Gath）首登峡谷；鞋子系统全面重做——移除鞋子附魔（Boot Enchantments）、新增 3 级鞋（Tier 3 Boots）；全部 AP 装备重建；悬赏（Bounties）机制调整；伴随「Feast On」夏日主题活动与排位新赛季（与国服 7.2 同日上线）。",
+    "highlights": [
+      {
+        "type": "new_hero",
+        "hero": "芸阿娜",
+        "title": "新英雄上线",
+        "detail": "新英雄芸阿娜（Yunara）上线，定位射手（marksman），为 7.2 首发新英雄之一（官方英雄页及媒体确认）。"
+      },
+      {
+        "type": "new_hero",
+        "hero": "科加斯",
+        "title": "新英雄上线",
+        "detail": "新英雄科加斯（Cho'Gath）上线，端游经典坦克首次登录手游（TechTimes 报道）。"
+      },
+      {
+        "type": "system",
+        "hero": "",
+        "title": "鞋子系统重做",
+        "detail": "移除鞋子附魔（Boot Enchantments），新增 3 级鞋（Tier 3 Boots），鞋子出装体系全面重做（TechTimes / Gamer.org）。"
+      },
+      {
+        "type": "system",
+        "hero": "",
+        "title": "AP 装备全面重建",
+        "detail": "全部 AP（法术强度）装备重建，法师出装生态迎来大洗牌（Gamer.org 报道）。"
+      },
+      {
+        "type": "system",
+        "hero": "",
+        "title": "悬赏机制调整",
+        "detail": "悬赏/赏金（Bounties）机制调整，影响对局节奏与翻盘逻辑（Wildriftcore 7.2 新版本环境指南，具体细节待核实）。"
+      },
+      {
+        "type": "event",
+        "hero": "",
+        "title": "夏日主题活动与排位新赛季",
+        "detail": "以「Feast On（共赴盛宴）」为主题的夏日版本活动开启，伴随新排位赛季（Codashop 版本攻略；周年庆说法待核实）。"
+      }
+    ],
+    "sourceUrl": "https://tocchien.vnggames.com/en-us/news/game-updates/wild-rift-patch-notes-7-2/",
+    "sourceName": "国际服官方补丁说明（VNG 镜像站）"
+  },
+  {
+    "id": "p6",
+    "version": "7.1",
+    "region": "国际服",
+    "date": "2026-04-XX（待核实，国服为4月9日）",
+    "title": "FLAT OUT（全速冲刺）",
+    "summary": "国际服「FLAT OUT」版本（与国服「全速竞逐」同步，约 2026 年 4 月）：K'Sante、塔莉娅（Taliyah）、斯卡纳（Skarner）三位新英雄加入；保时捷联名赛车主题皮肤上线；符文大乱斗（ARAM）迎来赛车主题全面焕新；符文系统同步更新（新增符文等）。",
+    "highlights": [
+      {
+        "type": "new_hero",
+        "hero": "K'Sante、塔莉娅、斯卡纳",
+        "title": "三位新英雄加入",
+        "detail": "K'Sante、塔莉娅（Taliyah）、斯卡纳（Skarner）三位新英雄于 7.1 版本加入峡谷（Prism News / Pocket Gamer 报道）。"
+      },
+      {
+        "type": "new_skin",
+        "hero": "",
+        "title": "保时捷联名赛车皮肤",
+        "detail": "保时捷（Porsche）联名赛车主题皮肤上线（Prism News；Khel Now 报道联名活动于 2026 年 4 月开启）。"
+      },
+      {
+        "type": "system",
+        "hero": "",
+        "title": "符文大乱斗赛车主题焕新",
+        "detail": "符文大乱斗（ARAM）迎来赛车主题全面焕新（Pocket Gamer：racing-themed AAA ARAM overhaul）。"
+      },
+      {
+        "type": "system",
+        "hero": "",
+        "title": "符文系统更新",
+        "detail": "符文系统迎来更新，新增符文并对现有符文调整（Gamer.org：New Runes；7.1d 亦有符文相关调整，细节待核实）。"
+      }
+    ],
+    "sourceUrl": "https://wildrift.leagueoflegends.com/en-sg/news/game-updates/wild-rift-patch-notes-7-1/",
+    "sourceName": "英雄联盟手游国际服官网（Patch Notes 7.1）"
+  },
+  {
+    "id": "p7",
+    "version": "7.0d",
+    "region": "国际服",
+    "date": "2026-03-XX（国服3月5日更新、梅尔3月13日上线；国际服具体日待核实）",
+    "title": "7.0d版本更新及平衡性调整公告（艾欧尼亚庆典周期）",
+    "summary": "7.0「艾欧尼亚庆典」周期内的大型字母补丁：新英雄梅尔（Mel，流光镜影）上线（国服 3 月 13 日推出）；新增 5 件新装备；费德提克（Fiddlesticks）迎来大型重做；国服版本更新时间为 3 月 5 日。",
+    "highlights": [
+      {
+        "type": "new_hero",
+        "hero": "梅尔",
+        "title": "新英雄上线",
+        "detail": "新英雄梅尔（Mel，流光镜影）上线（Fragster 报道；国服公告显示版本更新 3 月 5 日、梅尔 3 月 13 日 0 点推出）。"
+      },
+      {
+        "type": "system",
+        "hero": "",
+        "title": "新增五件新装备",
+        "detail": "新增 5 件新装备，影响出装生态（Fragster 报道；国服装备明细待核实）。"
+      },
+      {
+        "type": "system",
+        "hero": "费德提克",
+        "title": "费德提克大型重做",
+        "detail": "费德提克（Fiddlesticks）迎来大型重做（Fragster 报道；国服同步情况待核实）。"
+      },
+      {
+        "type": "event",
+        "hero": "",
+        "title": "艾欧尼亚庆典周期",
+        "detail": "延续 7.0「艾欧尼亚庆典（IONIA CELEBRATIONS）」主题周期（国服社区话题 #lol手游艾欧尼亚庆典#）。"
+      }
+    ],
+    "sourceUrl": "https://wildrift.leagueoflegends.com/zh-tw/news/game-updates/wild-rift-patch-notes-7-0d/",
+    "sourceName": "英雄联盟手游国际服官网（繁中）补丁说明"
+  },
+  {
+    "id": "p8",
+    "version": "7.0",
+    "region": "国际服",
+    "date": "2026-01-XX（待核实）",
+    "title": "IONIA CELEBRATIONS（艾欧尼亚庆典）",
+    "summary": "国际服 2026 年开年版本「艾欧尼亚庆典」：新英雄斯莫德（Smolder）上线；全新艾欧尼亚主题峡谷（Ionia Rift）登场，峡谷焕新；官方同步发布「Patch 7.0 AAA ARAM and Rift Updates」符文大乱斗与峡谷玩法更新；新英雄梅尔（Mel）原计划随本版本上线（实际于 7.0d 登场，待核实）。",
+    "highlights": [
+      {
+        "type": "new_hero",
+        "hero": "斯莫德",
+        "title": "新英雄上线",
+        "detail": "新英雄斯莫德（Smolder）随 7.0 版本上线（Pocket Gamer / Memuplay 报道）。"
+      },
+      {
+        "type": "system",
+        "hero": "",
+        "title": "艾欧尼亚峡谷登场",
+        "detail": "全新艾欧尼亚主题峡谷（Ionia Rift）登场，峡谷/地图焕新（Pocket Gamer 报道，具体形态待核实）。"
+      },
+      {
+        "type": "system",
+        "hero": "",
+        "title": "符文大乱斗与峡谷更新",
+        "detail": "官方发布「Patch 7.0 AAA ARAM and Rift Updates」：符文大乱斗（ARAM）与峡谷玩法更新（国际服官网专题页）。"
+      },
+      {
+        "type": "new_hero",
+        "hero": "梅尔",
+        "title": "梅尔上线时间说明",
+        "detail": "梅尔（Mel）计划随 7.0 上线（Pocket Gamer 报道），实际于 7.0d 版本登场、国服 3 月 13 日推出（Fragster，待核实）。"
+      }
+    ],
+    "sourceUrl": "https://wildrift.leagueoflegends.com/zh-tw/news/game-updates/wild-rift-patch-notes-70/",
+    "sourceName": "英雄联盟手游国际服官网（繁中）补丁说明"
+  }
+]

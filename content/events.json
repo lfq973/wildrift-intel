@@ -1,0 +1,275 @@
+[
+  {
+    "id": "e1",
+    "title": "「时空回溯」怀旧版本：科加斯登陆峡谷+符文乱斗经典模式回归",
+    "status": "ongoing",
+    "region": "国服",
+    "startDate": "2026-08-07",
+    "endDate": "待核实",
+    "summary": "8月7日起开启怀旧主题版本，新英雄科加斯登陆峡谷、符文乱斗经典模式与英雄之力玩法回归，官方称有海量奖励可领取。",
+    "rewards": [
+      {
+        "type": "champion",
+        "name": "科加斯（新英雄）",
+        "value": "登陆活动奖励，是否直接赠送待核实"
+      },
+      {
+        "type": "icon",
+        "name": "经典头像（怀旧返场）",
+        "value": "免费领取"
+      },
+      {
+        "type": "other",
+        "name": "怀旧活动海量奖励",
+        "value": "具体内容待核实"
+      }
+    ],
+    "howTo": "游戏内活动中心参与符文乱斗/怀旧玩法、完成任务领取，具体以游戏内活动页为准",
+    "sourceUrl": "https://news.17173.com/content/08072026/175403518.shtml",
+    "sourceName": "17173"
+  },
+  {
+    "id": "e2",
+    "title": "8月7日双喜临门：安妮新皮肤免费领（青花瓷系列）",
+    "status": "ongoing",
+    "region": "国服",
+    "startDate": "2026-08-07",
+    "endDate": "待核实",
+    "summary": "8月7日上线的安妮新皮肤可免费获取，同期青花瓷浮浮亮相，为周年庆版本免费福利之一。",
+    "rewards": [
+      {
+        "type": "skin",
+        "name": "安妮新皮肤（青花瓷系列，具体名称待核实）",
+        "value": "免费领取"
+      },
+      {
+        "type": "other",
+        "name": "青花瓷浮浮",
+        "value": "亮相/可获取，具体形式待核实"
+      }
+    ],
+    "howTo": "游戏内活动或任务免费获取，入口以游戏内活动中心为准",
+    "sourceUrl": "https://www.taptap.cn/moment/833414292312162354",
+    "sourceName": "TapTap"
+  },
+  {
+    "id": "e3",
+    "title": "4周年庆典口令码：WRL夏季赛冠军助威（白嫖皮肤道具）",
+    "status": "ongoing",
+    "region": "国服",
+    "startDate": "2026-07-25",
+    "endDate": "待核实（口令码有效期）",
+    "summary": "官方为2026WRL夏季赛冠军TT发布6个4周年口令码，输入可免费兑换皮肤道具。",
+    "rewards": [
+      {
+        "type": "code",
+        "name": "口令码：一路有你峡谷常在 / 峡谷四岁生日快乐 / 四年同行峡谷见 / 我的英雄就是招牌 / 四岁快乐燃起来 / 逐梦登场",
+        "value": "共6个，兑换皮肤道具（具体道具名待核实）"
+      }
+    ],
+    "howTo": "游戏内或官网活动页输入口令码兑换，具体位置以官方公告为准",
+    "sourceUrl": "https://sina.cn/news/detail/5324683111301585",
+    "sourceName": "新浪微博（英雄联盟手游官方）"
+  },
+  {
+    "id": "e4",
+    "title": "拼图娜美夏日活动",
+    "status": "ongoing",
+    "region": "国服",
+    "startDate": "2026年夏（待核实）",
+    "endDate": "待核实",
+    "summary": "2026夏日拼图玩法活动，完成拼图可获取头像框与龙魂水晶等奖励。",
+    "rewards": [
+      {
+        "type": "icon",
+        "name": "活动头像框",
+        "value": "1个"
+      },
+      {
+        "type": "other",
+        "name": "龙魂水晶",
+        "value": "数量待核实"
+      }
+    ],
+    "howTo": "游戏内活动页完成拼图任务领取",
+    "sourceUrl": "https://www.9game.cn/lolsy/11962650.html",
+    "sourceName": "九游"
+  },
+  {
+    "id": "e5",
+    "title": "Wild Rift 6周年庆典（7.2版本「FEAST ON!」）",
+    "status": "ongoing",
+    "region": "国际服",
+    "startDate": "2026-07-31（待核实）",
+    "endDate": "待核实",
+    "summary": "国际服迎来6周年，7.2版本上线新英雄Yunara与科加斯、鞋类附魔等大量更新，被称为史上最大更新波次，周年庆典福利同步开启。",
+    "rewards": [
+      {
+        "type": "skin",
+        "name": "6周年庆典免费皮肤/道具",
+        "value": "具体奖励待核实"
+      },
+      {
+        "type": "other",
+        "name": "周年活动任务奖励",
+        "value": "具体内容待核实"
+      }
+    ],
+    "howTo": "游戏内活动页/登录领取，具体以官方公告为准",
+    "sourceUrl": "https://www.ungeek.ph/2026/08/wild-rift-is-celebrating-its-sixth-anniversary-with-its-biggest-wave-of-updates/",
+    "sourceName": "UnGeek"
+  },
+  {
+    "id": "e6",
+    "title": "Wild Rift SMASH 2026 世界赛观赛/助威活动",
+    "status": "upcoming",
+    "region": "国际服",
+    "startDate": "2026年下半年（待核实）",
+    "endDate": "待核实",
+    "summary": "拳头公布2026赛季路线图，SMASH世界赛舞台成为年度重头戏并扩大参赛范围，届时预计配套观赛/助威免费福利。",
+    "rewards": [
+      {
+        "type": "other",
+        "name": "观赛/助威奖励",
+        "value": "具体奖励待核实"
+      }
+    ],
+    "howTo": "赛事期间通过游戏内观赛任务领取（活动尚未开启，方式待核实）",
+    "sourceUrl": "https://www.vrsus.io/the-wild-rift-2026-roadmap-puts-filipino-creators-and-the-smash-world-stage-front-and-center/",
+    "sourceName": "VRSUS"
+  },
+  {
+    "id": "e7",
+    "title": "S16全球总决赛观赛助威活动（国服）",
+    "status": "upcoming",
+    "region": "国服",
+    "startDate": "2026-10（待核实）",
+    "endDate": "待核实",
+    "summary": "端游S16全球总决赛将于2026年10-11月举行，参照2025年6.3版本为S15助威的先例，国服手游预计同步推出观赛助威免费福利，官方尚未正式公布。",
+    "rewards": [
+      {
+        "type": "skin",
+        "name": "观赛助威免费皮肤/道具",
+        "value": "具体奖励待核实（参照S15助威活动）"
+      }
+    ],
+    "howTo": "待官方公布（预计为游戏内观赛任务/登录领取）",
+    "sourceUrl": "https://shouyou.gamersky.com/news/202510/2034113.shtml",
+    "sourceName": "游民星空"
+  },
+  {
+    "id": "e8",
+    "title": "国服四周年庆典（7.25登录送福利）",
+    "status": "ended",
+    "region": "国服",
+    "startDate": "2026-07-25",
+    "endDate": "2026-08中旬（待核实）",
+    "summary": "7月25日四周年庆典开启，登录领宝箱、加里奥限定皮肤免费送、史诗皮肤登录即领，另有炫彩皮肤免费领取等系列福利。",
+    "rewards": [
+      {
+        "type": "skin",
+        "name": "加里奥限定皮肤",
+        "value": "免费领取"
+      },
+      {
+        "type": "skin",
+        "name": "史诗皮肤（登录领取）",
+        "value": "1个（具体皮肤待核实）"
+      },
+      {
+        "type": "skin",
+        "name": "炫彩皮肤",
+        "value": "免费领取"
+      },
+      {
+        "type": "other",
+        "name": "登录宝箱",
+        "value": "7月25日登录领取"
+      }
+    ],
+    "howTo": "庆典期间游戏内登录/任务领取（活动已结束或临近尾声）",
+    "sourceUrl": "https://lolm.qq.com/v2/news-page.html?docid=7131593578481246170",
+    "sourceName": "英雄联盟手游官网"
+  },
+  {
+    "id": "e9",
+    "title": "青花有灵 传说同行（节点激活赢传说皮肤自选礼包）",
+    "status": "ended",
+    "region": "国服",
+    "startDate": "2026-08-03",
+    "endDate": "2026-08-13",
+    "summary": "8月3日至13日期间依次激活节点奖励，可赢取传说皮肤自选礼包与青花瓷浮浮等豪礼。",
+    "rewards": [
+      {
+        "type": "skin",
+        "name": "传说皮肤自选礼包",
+        "value": "1个"
+      },
+      {
+        "type": "other",
+        "name": "青花瓷浮浮",
+        "value": "1个"
+      }
+    ],
+    "howTo": "活动期间在游戏内激活节点奖励领取（活动已结束）",
+    "sourceUrl": "https://www.sina.cn/news/detail/5327249784179553",
+    "sourceName": "新浪微博（英雄联盟手游官方）"
+  },
+  {
+    "id": "e10",
+    "title": "2026季中冠军赛（MSI）英雄联盟手游观赛活动",
+    "status": "ended",
+    "region": "国服",
+    "startDate": "2026-05（待核实）",
+    "endDate": "2026-05（待核实）",
+    "summary": "2026季中冠军赛期间，英雄联盟手游开启观赛活动，观看赛事可领取游戏内福利。",
+    "rewards": [
+      {
+        "type": "other",
+        "name": "观赛福利",
+        "value": "具体奖励待核实"
+      }
+    ],
+    "howTo": "赛事期间观赛/游戏内活动领取（活动已结束）",
+    "sourceUrl": "https://k.sina.cn/article_5756404150_1571bc1b604001a2v8.html",
+    "sourceName": "新浪"
+  },
+  {
+    "id": "e11",
+    "title": "Wild Rift 5周年庆典「Gilded Glory」（6.3版本）",
+    "status": "ended",
+    "region": "国际服",
+    "startDate": "2025-10（待核实）",
+    "endDate": "待核实",
+    "summary": "国际服5周年以「Gilded Glory」主题更新（6.3版本）庆祝，包含周年专属内容与免费福利活动。",
+    "rewards": [
+      {
+        "type": "skin",
+        "name": "Gilded Glory周年皮肤/道具",
+        "value": "具体奖励待核实"
+      }
+    ],
+    "howTo": "游戏内活动领取（活动已结束）",
+    "sourceUrl": "https://www.gamer.org/wild-rift-patch-6-3-gilded-glory-5th-anniversary-update/",
+    "sourceName": "Gamer.org"
+  },
+  {
+    "id": "e12",
+    "title": "「雪境奇谈」冬季活动（升级宝箱最高史诗皮肤免费领）",
+    "status": "ended",
+    "region": "国服",
+    "startDate": "2025-12（待核实）",
+    "endDate": "待核实",
+    "summary": "2025年冬季雪境奇谈活动开启，参与活动升级宝箱，最高可免费领取史诗皮肤。",
+    "rewards": [
+      {
+        "type": "skin",
+        "name": "史诗皮肤（升级宝箱最高奖励）",
+        "value": "1个（具体皮肤待核实）"
+      }
+    ],
+    "howTo": "活动期间游戏内完成升级任务开启宝箱领取（活动已结束）",
+    "sourceUrl": "https://m.gaoshouyou.com/zhuanqu/922914.html",
+    "sourceName": "高手游"
+  }
+]
