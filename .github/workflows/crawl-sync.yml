@@ -24,12 +24,15 @@ jobs:
         with:
           node-version: 20
 
-      - name: Run crawler
-        run: node crawler/crawl.js
+      - name: Run crawlers
+        run: |
+          node crawler/crawl.js
+          node crawler/crawl_builds.js
 
       - name: Show result
         run: |
           node -e "const f=require('./content/news_feed.json');console.log('news items:',f.length);console.log(f.slice(0,5).map(i=>i.title).join('\n'))"
+          node -e "const f=require('./content/champion_builds.json');console.log('champion builds:',f.length)"
 
       - name: Commit & push if changed
         run: |

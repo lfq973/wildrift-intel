@@ -1,5 +1,5 @@
-{
-  "contentVersion": "1.3.0",
+﻿{
+  "contentVersion": "1.3.1",
   "lastUpdated": "2026-08-14",
-  "files": ["patch_notes.json", "events.json", "champions.json", "guides.json", "matches.json", "schedule.json", "news_feed.json"]
+  "files": ["patch_notes.json", "events.json", "champions.json", "guides.json", "matches.json", "schedule.json", "news_feed.json", "champion_builds.json"]
 }
