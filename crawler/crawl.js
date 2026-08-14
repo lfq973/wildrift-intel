@@ -37,10 +37,11 @@ function fetch(url) {
   });
 }
 
-/** 官方补丁说明列表页（国际服） */
-async function crawlOfficialPatches() {
-  const base = 'https://wildrift.leagueoflegends.com/en-sg/news/game-updates/';
+/** 官方补丁说明列表页（国际服 / 繁中） */
+async function crawlOfficialPatches(locale) {
+  const base = 'https://wildrift.leagueoflegends.com/' + locale + '/news/game-updates/';
   const html = await fetch(base);
+  const tag = locale === 'zh-tw' ? '官方补丁说明（繁中）' : '官方补丁说明';
   const items = [];
   const re = /<a\b[^>]*href="([^"]+)"[^>]*>([\s\S]*?)<\/a>/g;
   let m;
@@ -50,7 +51,7 @@ async function crawlOfficialPatches() {
     const titleM = inner.match(/data-testid="card-title"[^>]*>([\s\S]*?)<\//);
     if (!titleM) continue;
     const title = titleM[1].replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
-    if (!/patch/i.test(title)) continue;
+    if (!/patch|版本更新|激鬥峽谷|激斗峡谷|版本公告/i.test(title)) continue;
     if (items.some((it) => it.url === url)) continue;
     const timeM = inner.match(/dateTime="([^"]+)"/);
     const absUrl = url.startsWith('http') ? url : 'https://wildrift.leagueoflegends.com' + url;
@@ -70,7 +71,7 @@ async function crawlOfficialPatches() {
       id: 'auto_' + Math.abs(require('crypto').createHash('md5').update(absUrl).digest().readInt32LE(0)).toString(36),
       title,
       url: absUrl,
-      source: '官方补丁说明',
+      source: tag,
       category: '版本更新',
       date: timeM ? timeM[1].slice(0, 10) : '',
       summary,
@@ -83,13 +84,15 @@ async function crawlOfficialPatches() {
 /** 抓取全部配置源（新源在此追加即可） */
 async function crawlAll() {
   const sources = [];
-  // 官方补丁页（主源，失败不影响）
-  try {
-    const items = await crawlOfficialPatches();
-    sources.push({ name: '官方补丁说明', items });
-    console.log('official patches:', items.length);
-  } catch (e) {
-    console.warn('official patches failed:', e.message);
+  // 官方补丁页（国际服 + 繁中，任一失败不影响其他）
+  for (const locale of ['en-sg', 'zh-tw']) {
+    try {
+      const items = await crawlOfficialPatches(locale);
+      sources.push({ name: '官方补丁说明' + locale, items });
+      console.log('official patches [' + locale + ']:', items.length);
+    } catch (e) {
+      console.warn('official patches [' + locale + '] failed:', e.message);
+    }
   }
   return sources;
 }
