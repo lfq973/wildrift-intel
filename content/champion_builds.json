@@ -1,1 +1,640 @@
-[]
+[
+  {
+    "championId": "yasuo",
+    "tier": "S",
+    "items": [
+      "Blade of the Ruined King",
+      "Solari Chargeblade",
+      "Bloodthirster",
+      "Lord Dominik’s Regards",
+      "Wit’s End",
+      "Protobelt Enchant"
+    ],
+    "spells": [
+      "Flash",
+      "Ignite"
+    ],
+    "runes": "Conqueror, Brutal, Coup de Grace, Legend: Alacrity, Bone Plating Rune Meta runes for Yasuo Wild Rift: Rune Set 1: Lethal Tempo, Hunter – Vampirism, Bone Plating, Sweet Tooth",
+    "skillOrder": "",
+    "crawledAt": "2026-08-17",
+    "sourceUrl": "https://zathong.com/yasuo-wild-rift-build/",
+    "sourceName": "Zathong"
+  },
+  {
+    "championId": "zed",
+    "tier": "S",
+    "items": [
+      "Youmuu’s Ghostblade",
+      "Black Cleaver",
+      "Serylda’s Grudge",
+      "Edge of Night",
+      "Divine Sunderer",
+      "Stasis Enchant"
+    ],
+    "spells": [
+      "Flash",
+      "Ignite"
+    ],
+    "runes": "First Strike, Sudden Impact, Mark of the Weak, Eyeball Collector, Bone Plating Rune Meta runes for Zed Wild Rift: Rune Set 1: Electrocute, Sudden Impact, Nullifying Orb, Hunter – Genius",
+    "skillOrder": "",
+    "crawledAt": "2026-08-17",
+    "sourceUrl": "https://zathong.com/zed-wild-rift-build/",
+    "sourceName": "Zathong"
+  },
+  {
+    "championId": "ahri",
+    "tier": "S",
+    "items": [
+      "Luden’s Echo",
+      "Infinity Orb",
+      "Void Staff",
+      "Rabadon’s Deathcap",
+      "Riftmaker",
+      "Protobelt Enchant"
+    ],
+    "spells": [
+      "Flash",
+      "Ignite"
+    ],
+    "runes": "Electrocute, Sudden Impact, Mark of the Weak, Eyeball Collector, Bone Plating",
+    "skillOrder": "",
+    "crawledAt": "2026-08-17",
+    "sourceUrl": "https://zathong.com/ahri-wild-rift-build/",
+    "sourceName": "Zathong"
+  },
+  {
+    "championId": "orianna",
+    "tier": "S",
+    "items": [
+      "Luden’s Echo",
+      "Archangel’s Staff",
+      "Rabadon’s Deathcap",
+      "Void Staff",
+      "Infinity Orb",
+      "Stasis Enchant"
+    ],
+    "spells": [
+      "Flash",
+      "Ignite or Flash",
+      "Barrier"
+    ],
+    "runes": "Conqueror, Scorch, Cheap Shot, Eyeball Collector, Bone Plating Rune Meta runes for Orianna Wild Rift: Rune Set 1: Aery, Giant Slayer, Nullifying Orb, Hunter – Genius",
+    "skillOrder": "",
+    "crawledAt": "2026-08-17",
+    "sourceUrl": "https://zathong.com/orianna-wild-rift-build/",
+    "sourceName": "Zathong"
+  },
+  {
+    "championId": "fiora",
+    "tier": "S+",
+    "items": [
+      "Divine Sunderer",
+      "Blade of the Ruined King",
+      "Hullbreakeredit",
+      "Death’s Dance",
+      "Sterak’s Gage",
+      "Protobelt Enchant"
+    ],
+    "spells": [
+      "Flash",
+      "Ignite"
+    ],
+    "runes": "Conqueror, Brutal, Last Stand, Legend: Alacrity, Second Wind Rune Meta runes for Fiora Wild Rift: Rune Set 1: Conqueror, Triumph, Bone Plating, Demolish",
+    "skillOrder": "",
+    "crawledAt": "2026-08-17",
+    "sourceUrl": "https://zathong.com/fiora-wild-rift-build/",
+    "sourceName": "Zathong"
+  },
+  {
+    "championId": "riven",
+    "tier": "S",
+    "items": [
+      "Black Cleaver",
+      "Divine Sunderer",
+      "Death’s Dance",
+      "Amaranth Twinguard",
+      "Mortal Reminder",
+      "Protobelt Enchant"
+    ],
+    "spells": [
+      "Flash",
+      "Ignite"
+    ],
+    "runes": "Conqueror, Triumph, Last Stand, Legend: Alacrity, Bone Plating Rune Meta runes for Riven Wild Rift: Rune Set 1: Conqueror, Sudden Impact, Bone Plating, Hunter – Genius",
+    "skillOrder": "",
+    "crawledAt": "2026-08-17",
+    "sourceUrl": "https://zathong.com/riven-wild-rift-build/",
+    "sourceName": "Zathong"
+  },
+  {
+    "championId": "garen",
+    "tier": "S+",
+    "items": [
+      "Hullbreakeredit",
+      "Black Cleaver",
+      "Sterak’s Gage",
+      "Amaranth Twinguard",
+      "Thornmail",
+      "Gargoyle Enchant"
+    ],
+    "spells": [
+      "Flash",
+      "Ignite"
+    ],
+    "runes": "Grasp of the Undying, Triumph, Last Stand, Legend: Tenacity, Second Wind Rune Meta runes for Garen Wild Rift: Rune Set 1: Grasp of the Undying, Triumph, Second Wind, Demolish",
+    "skillOrder": "",
+    "crawledAt": "2026-08-17",
+    "sourceUrl": "https://zathong.com/garen-wild-rift-build/",
+    "sourceName": "Zathong"
+  },
+  {
+    "championId": "malphite",
+    "tier": "S",
+    "items": [
+      "Iceborn Gauntlet",
+      "Luden’s Echo",
+      "Rabadon’s Deathcap",
+      "Void Staff",
+      "Infinity Orb",
+      "Stasis Enchant"
+    ],
+    "spells": [
+      "Flash",
+      "Ignite"
+    ],
+    "runes": "Grasp of the Undying, Font of Life, Second Wind, Overgrowth, Manaflow Band Rune Meta runes for Malphite Wild Rift: Rune Set 1: Grasp of the Undying, Weakness, Second Wind, Manaflow Band",
+    "skillOrder": "",
+    "crawledAt": "2026-08-17",
+    "sourceUrl": "https://zathong.com/malphite-wild-rift-build/",
+    "sourceName": "Zathong"
+  },
+  {
+    "championId": "lee-sin",
+    "tier": "S+",
+    "items": [
+      "Youmuu’s Ghostblade",
+      "Trinity Force",
+      "Death’s Dance",
+      "Mortal Reminder",
+      "Sterak’s Gage",
+      "Stasis Enchant"
+    ],
+    "spells": [
+      "Flash",
+      "Smite"
+    ],
+    "runes": "Conqueror, Triumph, Coup de Grace, Legend: Alacrity, Sudden Impact Rune Meta runes for Lee Sin Wild Rift: Rune Set 1: Conqueror, Triumph, Hunter – Titan, Hunter – Genius",
+    "skillOrder": "",
+    "crawledAt": "2026-08-17",
+    "sourceUrl": "https://zathong.com/lee-sin-wild-rift-build/",
+    "sourceName": "Zathong"
+  },
+  {
+    "championId": "khazix",
+    "tier": "S+",
+    "items": [
+      "Duskblade of Draktharr",
+      "Black Cleaver",
+      "Serpent’s Fang",
+      "Death’s Dance",
+      "Guardian Angel",
+      "Stasis Enchant"
+    ],
+    "spells": [
+      "Flash",
+      "Smite"
+    ],
+    "runes": "First Strike, Sudden Impact, Mark of the Weak, Zombie Ward, Coup de Grace Rune Meta runes for Kha’Zix Wild Rift: Rune Set 1: Conqueror, Sudden Impact, Hunter – Titan, Hunter – Genius",
+    "skillOrder": "",
+    "crawledAt": "2026-08-17",
+    "sourceUrl": "https://zathong.com/khazix-wild-rift-build/",
+    "sourceName": "Zathong"
+  },
+  {
+    "championId": "jarvan-iv",
+    "tier": "S",
+    "items": [
+      "Youmuu’s Ghostblade",
+      "Duskblade of Draktharr",
+      "Sterak’s Gage",
+      "Serpent’s Fang",
+      "Guardian Angel",
+      "Stasis Enchant"
+    ],
+    "spells": [
+      "Flash",
+      "Smite"
+    ],
+    "runes": "Conqueror, Triumph, Coup de Grace, Legend: Alacrity, Overgrowth Rune Meta runes for Jarvan IV Wild Rift: Rune Set 1: Conqueror, Triumph, Ultimate Shield, Hunter – Genius",
+    "skillOrder": "",
+    "crawledAt": "2026-08-17",
+    "sourceUrl": "https://zathong.com/jarvan-iv-wild-rift-build/",
+    "sourceName": "Zathong"
+  },
+  {
+    "championId": "jinx",
+    "tier": "S",
+    "items": [
+      "Stormrazor",
+      "Bloodthirster",
+      "Infinity Edge",
+      "Mortal Reminder",
+      "Runaan’s Hurricane",
+      "Stasis Enchant"
+    ],
+    "spells": [
+      "Flash",
+      "Heal or Flash",
+      "Exhaust"
+    ],
+    "runes": "Lethal Tempo, Brutal, Coup de Grace, Legend: Bloodline, Bone Plating Rune Meta runes for Jinx Wild Rift: Rune Set 1: Lethal Tempo, Hunter – Vampirism, Hunter – Titan, Nimbus Cloak",
+    "skillOrder": "",
+    "crawledAt": "2026-08-17",
+    "sourceUrl": "https://zathong.com/jinx-wild-rift-build/",
+    "sourceName": "Zathong"
+  },
+  {
+    "championId": "kaisa",
+    "tier": "S+",
+    "items": [
+      "Stormrazor",
+      "Infinity Edge",
+      "Runaan’s Hurricane",
+      "Lord Dominik’s Regards",
+      "Riftmaker",
+      "Stasis Enchant"
+    ],
+    "spells": [
+      "Flash",
+      "Ignite or Flash",
+      "Exhaust"
+    ],
+    "runes": "Conqueror, Brutal, Coup de Grace, Legend: Bloodline, Bone Plating Rune Meta runes for Kai’Sa Wild Rift: Rune Set 1: Lethal Tempo, Hunter – Vampirism, Hunter – Titan, Nimbus Cloak",
+    "skillOrder": "",
+    "crawledAt": "2026-08-17",
+    "sourceUrl": "https://zathong.com/kaisa-wild-rift-build/",
+    "sourceName": "Zathong"
+  },
+  {
+    "championId": "jhin",
+    "tier": "S",
+    "items": [
+      "Youmuu’s Ghostblade",
+      "Duskblade of Draktharr",
+      "Serpent’s Fang",
+      "Edge of Night",
+      "Mortal Reminder",
+      "Protobelt Enchant"
+    ],
+    "spells": [
+      "Flash",
+      "Exhaust"
+    ],
+    "runes": "Fleet Footwork, Brutal, Coup de Grace, Legend: Bloodline, Bone Plating Rune Meta runes for Jhin Wild Rift: Rune Set 1: Electrocute, Giant Slayer, Hunter – Titan, Nimbus Cloak",
+    "skillOrder": "",
+    "crawledAt": "2026-08-17",
+    "sourceUrl": "https://zathong.com/jhin-wild-rift-build/",
+    "sourceName": "Zathong"
+  },
+  {
+    "championId": "thresh",
+    "tier": "S",
+    "items": [
+      "Bulwark of the Mountain",
+      "Iceborn Gauntlet",
+      "Frozen Heart",
+      "Abyssal Mask",
+      "Thornmail",
+      "Protobelt Enchant"
+    ],
+    "spells": [
+      "Flash",
+      "Ignite"
+    ],
+    "runes": "Glacial Augment, Courage of the Colossus, Bone Plating, Overgrowth, Hextech Flashtraption Rune Meta runes for Thresh Wild Rift: Rune Set 1: Aftershock, Weakness, Loyalty, Pack Hunter",
+    "skillOrder": "",
+    "crawledAt": "2026-08-17",
+    "sourceUrl": "https://zathong.com/thresh-wild-rift-build/",
+    "sourceName": "Zathong"
+  },
+  {
+    "championId": "rakan",
+    "tier": "S",
+    "items": [
+      "Bulwark of the Mountain",
+      "Imperial Mandate",
+      "Dawnshroud",
+      "Staff of Flowing Waters",
+      "Abyssal Mask",
+      "Stasis Enchant"
+    ],
+    "spells": [
+      "Flash",
+      "Ignite"
+    ],
+    "runes": "Glacial Augment, Sudden Impact, Cheap Shot, Zombie Ward, Bone Plating Rune Meta runes for Rakan Wild Rift: Rune Set 1: Electrocute, Weakness, Bone Plating, Hunter – Genius",
+    "skillOrder": "",
+    "crawledAt": "2026-08-17",
+    "sourceUrl": "https://zathong.com/rakan-wild-rift-build/",
+    "sourceName": "Zathong"
+  },
+  {
+    "championId": "volibear",
+    "tier": "S",
+    "items": [
+      "Divine Sunderer",
+      "Black Cleaver",
+      "Thornmail",
+      "Amaranth Twinguard",
+      "Force of Nature",
+      "Gargoyle Enchant"
+    ],
+    "spells": [
+      "Flash",
+      "Ignite"
+    ],
+    "runes": "Conqueror, Triumph, Last Stand, Legend: Alacrity, Overgrowth Runes Meta runes for Volibear Wild Rift: Runes Set 1: Conqueror, Triumph, Adaptive Carapace, Sweet Tooth",
+    "skillOrder": "",
+    "crawledAt": "2026-08-17",
+    "sourceUrl": "https://zathong.com/volibear-wild-rift-build/",
+    "sourceName": "Zathong"
+  },
+  {
+    "championId": "olaf",
+    "tier": "S+",
+    "items": [
+      "Trinity Force",
+      "Death’s Dance",
+      "Amaranth Twinguard",
+      "Spirit Visage",
+      "Sterak’s Gage",
+      "Glorious Enchant"
+    ],
+    "spells": [
+      "Flash",
+      "Ignite"
+    ],
+    "runes": "Conqueror, Triumph, Last Stand, Legend: Alacrity, Overgrowth Rune Meta runes for Olaf Wild Rift: Rune Set 1: Conqueror, Triumph, Ultimate Shield, Nimbus Cloak",
+    "skillOrder": "",
+    "crawledAt": "2026-08-17",
+    "sourceUrl": "https://zathong.com/olaf-wild-rift-build/",
+    "sourceName": "Zathong"
+  },
+  {
+    "championId": "darius",
+    "tier": "S",
+    "items": [
+      "Black Cleaver",
+      "Divine Sunderer",
+      "Amaranth Twinguard",
+      "Sterak’s Gage",
+      "Death’s Dance",
+      "Protobelt Enchant"
+    ],
+    "spells": [
+      "Flash",
+      "Ignite"
+    ],
+    "runes": "",
+    "skillOrder": "",
+    "crawledAt": "2026-08-17",
+    "sourceUrl": "https://zathong.com/darius-wild-rift-build/",
+    "sourceName": "Zathong"
+  },
+  {
+    "championId": "dr-mundo",
+    "tier": "S",
+    "items": [
+      "Searing Crown",
+      "Spirit Visage",
+      "Sunfire Aegis",
+      "Amaranth Twinguard",
+      "Warmog’s Armor",
+      "Gargoyle Enchant"
+    ],
+    "spells": [
+      "Ghost",
+      "Ignite"
+    ],
+    "runes": "Grasp of the Undying, Nullifying Orb, Second Wind, Overgrowth, Demolish Rune Meta runes for Dr",
+    "skillOrder": "",
+    "crawledAt": "2026-08-17",
+    "sourceUrl": "https://zathong.com/dr-mundo-wild-rift-build/",
+    "sourceName": "Zathong"
+  },
+  {
+    "championId": "irelia",
+    "tier": "S",
+    "items": [
+      "Blade of the Ruined King",
+      "Divine Sunderer",
+      "Wit’s End",
+      "Death’s Dance",
+      "Guardian Angel",
+      "Gargoyle Enchant"
+    ],
+    "spells": [
+      "Flash",
+      "Ignite"
+    ],
+    "runes": "Conqueror, Brutal, Last Stand, Legend: Alacrity, Bone Plating Rune Meta runes for Irelia Wild Rift: Rune Set 1: Conqueror, Triumph, Bone Plating, Demolish",
+    "skillOrder": "",
+    "crawledAt": "2026-08-17",
+    "sourceUrl": "https://zathong.com/irelia-wild-rift-build/",
+    "sourceName": "Zathong"
+  },
+  {
+    "championId": "yone",
+    "tier": "S+",
+    "items": [
+      "Blade of the Ruined King",
+      "Solari Chargeblade",
+      "Infinity Edge",
+      "Amaranth Twinguard",
+      "Guardian Angel",
+      "Stasis Enchant"
+    ],
+    "spells": [
+      "Flash",
+      "Exhaust or Flash",
+      "Ignite"
+    ],
+    "runes": "Conqueror, Brutal, Coup de Grace, Legend: Alacrity, Bone Plating Rune Meta runes for Yone Wild Rift: Rune Set 1: Lethal Tempo, Hunter – Vampirism, Bone Plating, Sweet Tooth",
+    "skillOrder": "",
+    "crawledAt": "2026-08-17",
+    "sourceUrl": "https://zathong.com/yone-wild-rift-build/",
+    "sourceName": "Zathong"
+  },
+  {
+    "championId": "lucian",
+    "tier": "S+",
+    "items": [
+      "Manamune",
+      "Black Cleaver",
+      "Blade of the Ruined King",
+      "Sterak’s Gage",
+      "Serylda’s Grudge",
+      "Stasis Enchant"
+    ],
+    "spells": [
+      "Flash",
+      "Exhaust or Flash",
+      "Ignite"
+    ],
+    "runes": "Kraken Slayer, Brutal, Coup de Grace, Legend: Bloodline, Bone Plating Rune Meta runes for Lucian Wild Rift: Rune Set 1: Kraken Slayer, Hunter – Vampirism, Hunter – Titan, Nimbus Cloak",
+    "skillOrder": "",
+    "crawledAt": "2026-08-17",
+    "sourceUrl": "https://zathong.com/lucian-wild-rift-build/",
+    "sourceName": "Zathong"
+  },
+  {
+    "championId": "vayne",
+    "tier": "S+",
+    "items": [
+      "Blade of the Ruined King",
+      "Wit’s End",
+      "Phantom Dancer",
+      "Rapid Firecannon",
+      "Guardian Angel",
+      "Stasis Enchant"
+    ],
+    "spells": [
+      "Flash",
+      "Exhaust or Flash",
+      "Ignite"
+    ],
+    "runes": "Lethal Tempo, Brutal, Coup de Grace, Legend: Bloodline, Bone Plating Rune Meta runes for Vayne Wild Rift: Rune Set 1: Lethal Tempo, Hunter – Vampirism, Hunter – Titan, Nimbus Cloak",
+    "skillOrder": "",
+    "crawledAt": "2026-08-17",
+    "sourceUrl": "https://zathong.com/vayne-wild-rift-build/",
+    "sourceName": "Zathong"
+  },
+  {
+    "championId": "evelynn",
+    "tier": "S",
+    "items": [
+      "Rabadon’s Deathcap",
+      "Lich Bane",
+      "Infinity Orb",
+      "Void Staff",
+      "Morellonomicon",
+      "Protobelt Enchant"
+    ],
+    "spells": [
+      "Flash",
+      "Smite"
+    ],
+    "runes": "First Strike, Sudden Impact, Mark of the Weak, Zombie Ward, Coup de Grace Rune Meta runes for Runes Wild Rift: Rune Set 1: Electrocute, Sudden Impact, Bone Plating, Hunter – Genius",
+    "skillOrder": "",
+    "crawledAt": "2026-08-17",
+    "sourceUrl": "https://zathong.com/evelynn-wild-rift-build/",
+    "sourceName": "Zathong"
+  },
+  {
+    "championId": "gragas",
+    "tier": "S",
+    "items": [
+      "Luden’s Echo",
+      "Rabadon’s Deathcap",
+      "Void Staff",
+      "Infinity Orb",
+      "Lich Bane",
+      "Stasis Enchant"
+    ],
+    "spells": [
+      "Flash",
+      "Ignite"
+    ],
+    "runes": "Electrocute, Sudden Impact, Mark of the Weak, Eyeball Collector, Bone Plating Rune Meta runes for Gragas Wild Rift: Rune Set 1: Grasp of the Undying, Triumph, Bone Plating, Sweet Tooth",
+    "skillOrder": "",
+    "crawledAt": "2026-08-17",
+    "sourceUrl": "https://zathong.com/gragas-wild-rift-build/",
+    "sourceName": "Zathong"
+  },
+  {
+    "championId": "nami",
+    "tier": "S+",
+    "items": [
+      "Black Mist Scythe",
+      "Imperial Mandate",
+      "Staff of Flowing Waters",
+      "Ardent Censer",
+      "Rabadon’s Deathcap",
+      "Meteor Enchant"
+    ],
+    "spells": [
+      "Flash",
+      "Ignite or Flash",
+      "Exhaust"
+    ],
+    "runes": "Aery, Scorch, Cheap Shot, Zombie Ward, Revitalize Rune Meta runes for Nami Wild Rift: Rune Set 1: Aery, Weakness, Adaptive Carapace, Hunter – Genius",
+    "skillOrder": "",
+    "crawledAt": "2026-08-17",
+    "sourceUrl": "https://zathong.com/nami-wild-rift-build/",
+    "sourceName": "Zathong"
+  },
+  {
+    "championId": "lulu",
+    "tier": "S",
+    "items": [
+      "Black Mist Scythe",
+      "Ardent Censer",
+      "Staff of Flowing Waters",
+      "Harmonic Echo",
+      "Rabadon’s Deathcap",
+      "Redeeming Enchant"
+    ],
+    "spells": [
+      "Flash",
+      "Heal or Flash",
+      "Ignite"
+    ],
+    "runes": "Aery, Font of Life, Bone Plating, Revitalize, Transcendence Rune Meta runes for Lulu Wild Rift: Rune Set 1: Aery, Weakness, Adaptive Carapace, Hunter – Genius",
+    "skillOrder": "",
+    "crawledAt": "2026-08-17",
+    "sourceUrl": "https://zathong.com/lulu-wild-rift-build/",
+    "sourceName": "Zathong"
+  },
+  {
+    "championId": "pantheon",
+    "tier": "A",
+    "items": [
+      "Manamune",
+      "Blade of the Ruined King",
+      "Solari Chargeblade",
+      "Infinity Edge",
+      "Death’s Dance",
+      "Protobelt Enchant"
+    ],
+    "spells": [
+      "Flash",
+      "Ignite"
+    ],
+    "runes": "Conqueror, Triumph, Coup de Grace, Legend: Alacrity, Sudden Impact Rune Meta runes for Pantheon Solo/Mid Wild Rift: Rune Set 1: Conqueror, Triumph, Bone Plating, Demolish",
+    "skillOrder": "",
+    "crawledAt": "2026-08-17",
+    "sourceUrl": "https://zathong.com/pantheon-wild-rift-build/",
+    "sourceName": "Zathong"
+  },
+  {
+    "championId": "galio",
+    "tier": "S",
+    "items": [
+      "Rod of Ages",
+      "Rabadon’s Deathcap",
+      "Void Staff",
+      "Infinity Orb",
+      "Awakened Soulstealer",
+      "Protobelt Enchant"
+    ],
+    "spells": [
+      "Flash",
+      "Ignite"
+    ],
+    "runes": "Electrocute, Scorch, Cheap Shot, Eyeball Collector, Bone Plating Rune Meta runes for Galio Wild Rift: Rune Set 1: Electrocute, Brutal, Conditioning, Hunter – Genius",
+    "skillOrder": "",
+    "crawledAt": "2026-08-17",
+    "sourceUrl": "https://zathong.com/galio-wild-rift-build/",
+    "sourceName": "Zathong"
+  }
+]
