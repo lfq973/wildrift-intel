@@ -96,7 +96,7 @@
     "source": "官方补丁说明（繁中）",
     "category": "版本更新",
     "date": "2026-08-12",
-    "summary": "card-description\" class=\"sc-85c0bd82-0 faqZib\"> 7.2c版本帶來英雄與道具平衡調整、更強大的飛龍，以及巴��路��改動，避免戰場陷入僵局。",
+    "summary": "card-description\" class=\"sc-85c0bd82-0 faqZib\"> 7.2c版本帶來英雄與道具平衡調整、更強大的飛龍，以及巴龍路的改動，避免戰場陷入僵局。",
     "crawledAt": "2026-08-26"
   },
   {
@@ -147,6 +147,26 @@
     "category": "版本更新",
     "date": "2026-06-24",
     "summary": "card-description\" class=\"sc-85c0bd82-0 faqZib\"> 歡迎來到7.1版本最後一次平衡更新！",
+    "crawledAt": "2026-08-26"
+  },
+  {
+    "id": "auto_7k9hu8",
+    "title": "Wild Rift Patch Notes 7.2d",
+    "url": "https://wildrift.leagueoflegends.com/en-sg/news/game-updates/wild-rift-patch-notes-7-2d",
+    "source": "官方补丁说明",
+    "category": "版本更新",
+    "date": "2026-08-26",
+    "summary": "card-description\" class=\"sc-85c0bd82-0 faqZib\"> Patch 7.2d brings balance updates to champions and items across the Rift.",
+    "crawledAt": "2026-08-26"
+  },
+  {
+    "id": "auto_t2kgx7",
+    "title": "《激鬥峽谷》7.2d版本更新公告",
+    "url": "https://wildrift.leagueoflegends.com/zh-tw/news/game-updates/wild-rift-patch-notes-7-2d",
+    "source": "官方补丁说明（繁中）",
+    "category": "版本更新",
+    "date": "2026-08-26",
+    "summary": "card-description\" class=\"sc-85c0bd82-0 faqZib\"> 7.2d版本更新包含英雄與道具的平衡。",
     "crawledAt": "2026-08-26"
   }
 ]
