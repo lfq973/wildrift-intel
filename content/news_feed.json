@@ -168,5 +168,25 @@
     "date": "2026-08-26",
     "summary": "card-description\" class=\"sc-85c0bd82-0 faqZib\"> 7.2d版本更新包含英雄與道具的平衡。",
     "crawledAt": "2026-09-09"
+  },
+  {
+    "id": "auto_b4ixf5",
+    "title": "Wild Rift Patch Notes 7.2e",
+    "url": "https://wildrift.leagueoflegends.com/en-sg/news/game-updates/wild-rift-patch-notes-72e",
+    "source": "官方补丁说明",
+    "category": "版本更新",
+    "date": "2026-09-09",
+    "summary": "card-description\" class=\"sc-85c0bd82-0 faqZib\"> Balance changes are here with updates to Vi, Swain, Janna, Nautilus, Malphite, and more!",
+    "crawledAt": "2026-09-09"
+  },
+  {
+    "id": "auto_8dgkn6",
+    "title": "《激鬥峽谷》7.2e版本更新公告",
+    "url": "https://wildrift.leagueoflegends.com/zh-tw/news/game-updates/wild-rift-patch-notes-72e",
+    "source": "官方补丁说明（繁中）",
+    "category": "版本更新",
+    "date": "2026-09-09",
+    "summary": "card-description\" class=\"sc-85c0bd82-0 faqZib\"> 平衡調整來了，這次更新了菲艾、斯溫、珍娜、納帝魯斯、墨菲特等英雄！",
+    "crawledAt": "2026-09-09"
   }
 ]
